@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndersonEstumano
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning app Development.
+- 🌱 I’m currently learning C programming language.
 - 💞️ I’m looking to collaborate on projects with a intermediate level to gain experience.
 - 📫 How to reach me 
 - https://www.linkedin.com/in/andersonestumano/
