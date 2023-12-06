@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - https://www.linkedin.com/in/andersonestumano/
 - andersonestumano1@gmail.com
-- +5548992003855 (Whatsapp)
+- https://wa.me/554892003855
 - https://www.freecodecamp.org/AndersonEstumano
 
 <!---
